@@ -1,0 +1,18 @@
+PODS:
+  - ACPCore (2.7.3):
+    - ACPCore/main (= 2.7.3)
+  - ACPCore/main (2.7.3)
+
+DEPENDENCIES:
+  - ACPCore
+
+SPEC REPOS:
+  trunk:
+    - ACPCore
+
+SPEC CHECKSUMS:
+  ACPCore: 775f513687127325d980dba5721b08ea3d5ea79a
+
+PODFILE CHECKSUM: 46d4e6e89c406b247ece8f602d69538740547203
+
+COCOAPODS: 1.9.3
